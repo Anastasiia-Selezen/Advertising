@@ -1,5 +1,4 @@
 # Advertising
-Prediction who is more likely to click the ad
 <br>
 <br><i>Domain:</i> Advertisement
 <br>
